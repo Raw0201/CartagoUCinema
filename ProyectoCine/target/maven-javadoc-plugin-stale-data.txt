@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'D:/OneDrive/OneDrive - Colegio Universitario de Cartago/01 Projects/Diplomado Tecnologías de la información/07 TI-121  Programación I/Tareas/Proyecto 1/ProyectoCine/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/OneDrive/OneDrive - Colegio Universitario de Cartago/01 Projects/Diplomado Tecnologías de la información/07 TI-121  Programación I/Tareas/Proyecto 1/ProyectoCine/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProyectoCine 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ProyectoCine 1.0-SNAPSHOT API'
+com.mycompany.proyectocine
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\src\main\java = 1687707219570
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\allclasses-index.html = 1688003981703
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\allpackages-index.html = 1688003981705
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\copy.svg = 1688003981741
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\element-list = 1688003981659
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\help-doc.html = 1688003981737
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\index-all.html = 1688003981729
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\index.html = 1688003981734
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\member-search-index.js = 1688003981710
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\module-search-index.js = 1688003981707
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\overview-tree.html = 1688003981685
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\package-search-index.js = 1688003981708
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\script.js = 1688003981740
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\search-page.js = 1688003981743
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\search.html = 1688003981731
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\search.js = 1688003981742
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\stylesheet.css = 1688003981739
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\tag-search-index.js = 1688003981710
+D:\OneDrive\OneDrive - Colegio Universitario de Cartago\01 Projects\Diplomado Tecnologías de la información\07 TI-121  Programación I\Tareas\Proyecto 1\ProyectoCine\target\site\apidocs\type-search-index.js = 1688003981709
